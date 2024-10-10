@@ -56,7 +56,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 2.3.2  | [Practice - Demonstrate an Ethical Hacking Mindset](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
 
 
-| Lab 2.3.3  | [Lab - Personal Code of Conduct](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended  |                                                                                                                                                  
+| Lab 2.3.3  | [Lab - Personal Code of Conduct](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended                                                                                                                                                
 
 ---
 
