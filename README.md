@@ -38,5 +38,22 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
+- Planning and Scoping a Penetration Testing Assessment (INT402)
+
+
+  **Topics Covered**
+
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 1.1.3  | [Lab - Researching PenTesting Careers](INT401_Ethical_Hacking_Penetration_Testing/lab1.md)                                       |Recommended                                                                                         |
+| Lab 1.2.4  | [Practice - Types of Penetration Tests](INT401_Ethical_Hacking_Penetration_Testing/lab2.md)                                                | Recommended                                                                                           |
+| Lab 1.2.6  | [Lab - Compare Pentesting Methodologies](INT401_Ethical_Hacking_Penetration_Testing/lab3.md)                                        | Recommended    |
+| Lab 1.3.4 | [Practice - Requirements and Guidelines for Penetration Testing Labs](INT401_Ethical_Hacking_Penetration_Testing/lab4.md)                                       | Recommended  |
+| Lab 1.3.6  | [Lab - Deploy a Pre-Built Kali Linux Virtual Machine (VM)](INT401_Ethical_Hacking_Penetration_Testing/lab5.md)                                            | Recommended       |
+| Lab 1.3.7  | [Lab - Investigate Kali Linux](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        |                                                                                                           
+
+---
+
+
 
 
