@@ -1,4 +1,4 @@
-# 1.3.4 Practice - Requirements and Guidelines for Penetration Testing Labs
+# Practice - Requirements and Guidelines for Penetration Testing Labs
 
 You need to set up a penetration testing practice lab because some of the tools that are preferred at AIVTIC are new to you. What best practices will you follow as you set up your lab? (Choose all that apply.)
 
