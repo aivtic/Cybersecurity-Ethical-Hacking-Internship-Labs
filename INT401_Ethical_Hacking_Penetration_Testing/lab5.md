@@ -68,7 +68,7 @@ For the pre-built customized Linux for this course, the user `kali` is configure
 
 **Note:** These commands are for demonstration only. You will be more familiar with these commands as you become more fluent with Linux.
 
-1. Log into the Linux system with the username `kali` and the password `kali`. You are presented with the Linux desktop.
+1. Log into the Linux system with the username `root` and the password `aivtic`. You are presented with the Linux desktop.
 2. Right-click the Desktop > select **Applications** > click **Terminal Emulator**. This will open a terminal emulator window.
 3. Root privilege is required to view and edit the file `/etc/sudoers`. To illustrate the use of root privileges, enter the command `visudo` at the command prompt in the terminal.
 
