@@ -27,7 +27,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
   **Topics Covered**
 
-| Lab Number   | Activity Name                                                                                                | Activty Name                                                                           |
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Lab 1.1.3  | [Lab - Researching PenTesting Careers](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |                                                                                          |
 | Lab 1.2.4  | [Practice - Types of Penetration Tests](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_01_Registry.pptx)                                                |                                                                                          |
