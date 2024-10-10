@@ -45,16 +45,16 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Lab 2.1.4  | [Practice - Regulations](INT401_Ethical_Hacking_Penetration_Testing/lab1.md)                                       |Recommended                                                                                         |
-| Lab 2.1.8  | [Practice - Legal Concepts](INT401_Ethical_Hacking_Penetration_Testing/lab2.md)                                                | Recommended                                                                                           |
-| Lab 2.1.9  | [Lab - Compliance Requirements and Local Restrictions](INT401_Ethical_Hacking_Penetration_Testing/lab3.md)                                        | Recommended    |
-| Lab 2.2.3 | [Practice - Rules of Engagement](INT401_Ethical_Hacking_Penetration_Testing/lab4.md)                                       | Recommended  |
-| Lab 2.2.5  | [Practice - Target List and In-Scope Assets](INT401_Ethical_Hacking_Penetration_Testing/lab5.md)                                            | Recommended       |
-| Lab 2.2.8  | [Practice - Strategy: Unknown vs. Known Environment Testing](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
-| Lab 2.2.9  | [Lab - Pre-Engagement Scope and Planning](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
-| Lab 2.2.10  | [Lab - Create a Pentesting Agreement](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
-| Lab 2.3.2  | [Practice - Demonstrate an Ethical Hacking Mindset](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended 
-| Lab 2.3.3  | [Lab - Personal Code of Conduct](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        |Recommended                         
+| Lab 2.1.4  | [Practice - Regulations](INT402_Planning_Scoping_Pentest/lab7.md)                                       |Recommended                                                                                         |
+| Lab 2.1.8  | [Practice - Legal Concepts](INT402_Planning_Scoping_Pentest/lab8.md)                                                | Recommended                                                                                           |
+| Lab 2.1.9  | [Lab - Compliance Requirements and Local Restrictions](INT402_Planning_Scoping_Pentest/lab9.md)                                        | Recommended    |
+| Lab 2.2.3 | [Practice - Rules of Engagement](INT402_Planning_Scoping_Pentest/lab10.md)                                       | Recommended  |
+| Lab 2.2.5  | [Practice - Target List and In-Scope Assets](INT402_Planning_Scoping_Pentest/lab11.md)                                            | Recommended       |
+| Lab 2.2.8  | [Practice - Strategy: Unknown vs. Known Environment Testing](INT402_Planning_Scoping_Pentest/lab12.md)                        | Recommended   |
+| Lab 2.2.9  | [Lab - Pre-Engagement Scope and Planning](INT402_Planning_Scoping_Pentest/lab13.md)                        | Recommended   |
+| Lab 2.2.10  | [Lab - Create a Pentesting Agreement](INT402_Planning_Scoping_Pentest/lab14.md)                        | Recommended   |
+| Lab 2.3.2  | [Practice - Demonstrate an Ethical Hacking Mindset](INT402_Planning_Scoping_Pentest/lab15.md)                        | Recommended 
+| Lab 2.3.3  | [Lab - Personal Code of Conduct](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended                         
 
                                                                                                                                                  
 
