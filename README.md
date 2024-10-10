@@ -27,7 +27,9 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
   **Topics Covered**
 
-| Labs   | Topics Covered (Command Line)                                                                                                | Python Version                                                                           |
+| Lab Number | Activity                                                                                               | Activity Name
+
+                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Lab 1  | [Environment Setting Up](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |                                                                                          |
 | Lab 2  | [Windows Registry](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_01_Registry.pptx)                                                |                                                                                          |
