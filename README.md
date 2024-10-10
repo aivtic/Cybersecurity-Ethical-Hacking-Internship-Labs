@@ -27,7 +27,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
   **Topics Covered**
 
-| Labs   | Activity (Command Line)                                                                                                | Activty Name                                                                           |
+| Lab Number   | Activity (Command Line)                                                                                                | Activty Name                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Lab 1  | [Environment Setting Up](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |                                                                                          |
 | Lab 2  | [Windows Registry](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_01_Registry.pptx)                                                |                                                                                          |
