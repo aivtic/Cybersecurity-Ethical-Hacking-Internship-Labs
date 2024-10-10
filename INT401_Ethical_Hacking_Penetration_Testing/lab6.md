@@ -175,8 +175,9 @@ To verify that the file has been deleted, list the files in the current director
 ## Viewing File Content
 To view the contents of a file, use the cat command. For example, to view gvm_admin_passwd.txt, use:
 ```bash
+cat gvm_admin_passwd.txt
  ```
- cat gvm_admin_passwd.txt
+ 
 If the file is long, consider using less or more for paginated viewing:
 ```bash
  less gvm_admin_passwd.txt
