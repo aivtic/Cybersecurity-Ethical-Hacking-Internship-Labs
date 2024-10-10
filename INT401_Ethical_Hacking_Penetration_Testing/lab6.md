@@ -112,11 +112,13 @@ Navigate to the `/home/kali` directory if it is not your current directory. Type
 cd /home/kali
  ```
 to change the working directory.
-┌──(kali㉿Kali)-[~]
-└─$ cd /home/kali
+```bash
+cd /home/kali
+ ```
 Type ls -l at the command prompt to list the files and folders that are in the current working directory. The ls command stands for list. The -l option displays the file size, permissions, ownership, date of creation, and more for the files and folders.
-┌──(kali㉿Kali)-[~]
-└─$ ls -l
+```bash
+ ls -l
+  ```
 
 
 ## Understanding File Permissions
@@ -127,47 +129,58 @@ The second set of three represents the group's permissions.
 The third set of three represents others' permissions.
 Creating and Removing Directories
 ## To create a new directory called Test, use the mkdir command:
-┌──(kali㉿Kali)-[~/Documents]
-└─$ mkdir Test
+```bash
+mkdir Test
+ ```
 
 To verify that the directory was created, use the ls command:
-┌──(kali㉿Kali)-[~/Documents]
-└─$ ls
+```bash
+ ls
+ ```
 Test
 To remove the directory, use the rmdir command:
-┌──(kali㉿Kali)-[~/Documents]
-└─$ rmdir Test
+```bash
+ rmdir Test
+  ```
 To verify that the directory was removed, use the ls command again:
-┌──(kali㉿Kali)-[~/Documents]
-└─$ ls
+```bash
+ ls
+  ```
 ## Copying and Moving Files
 To copy a file, use the cp command. For example, to copy gvm_admin_passwd.txt to a new file called backup_gvm_passwd.txt, use:
 
-┌──(kali㉿Kali)-[~]
-└─$ cp gvm_admin_passwd.txt backup_gvm_passwd.txt
+```bash
+ cp gvm_admin_passwd.txt backup_gvm_passwd.txt
+  ```
 To verify the copy, list the files in the current directory:
-┌──(kali㉿Kali)-[~]
-└─$ ls
+```bash
+ ls
+  ```
 gvm_admin_passwd.txt  backup_gvm_passwd.txt
 To move a file, use the mv command. For example, to move gvm_admin_passwd.txt to the Documents directory, use:
-┌──(kali㉿Kali)-[~]
-└─$ mv gvm_admin_passwd.txt Documents/
+```bash
+ mv gvm_admin_passwd.txt Documents/
+  ```
 To verify the move, check the contents of the Documents directory:
-┌──(kali㉿Kali)-[~]
-└─$ ls Documents/
+```bash
+ ls Documents/
+  ```
 gvm_admin_passwd.txt
 Deleting Files
 To delete a file, use the rm command. For example, to delete backup_gvm_passwd.txt, use:
-┌──(kali㉿Kali)-[~]
-└─$ rm backup_gvm_passwd.txt
+```bash
+ rm backup_gvm_passwd.txt
+ ```
 To verify that the file has been deleted, list the files in the current directory:
 ## Viewing File Content
 To view the contents of a file, use the cat command. For example, to view gvm_admin_passwd.txt, use:
-┌──(kali㉿Kali)-[~]
-└─$ cat gvm_admin_passwd.txt
+```bash
+ ```
+ cat gvm_admin_passwd.txt
 If the file is long, consider using less or more for paginated viewing:
-┌──(kali㉿Kali)-[~]
-└─$ less gvm_admin_passwd.txt
+```bash
+ less gvm_admin_passwd.txt
+  ```
 ## Conclusion
 Navigating the Kali Linux file system is essential for effective system management. By mastering basic commands such as cd, ls, mkdir, cp, mv, rm, and cat, you can efficiently manage files and directories in your environment.
 
