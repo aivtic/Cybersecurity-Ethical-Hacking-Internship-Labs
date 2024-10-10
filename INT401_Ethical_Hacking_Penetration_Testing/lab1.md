@@ -21,10 +21,10 @@ You'll also see which companies are hiring, where they're located, and gather es
 
 ### Part 1: Conduct a Penetration Tester Job Search
 
-In this section, you will conduct a search for ethical hacking or penetration tester jobs on various internet job boards.
+In this section, you will conduct a search for ethical hacking or penetration tester and Digital Forensic jobs on various internet job boards.
 
 #### Step 1: Search internet job boards.
-1. Open a browser and search for ethical hacking/penetration testing jobs on employment sites such as **indeed.com**, **glassdoor.com**, **linkedin.com**, and **monster.com**.
+1. Open a browser and search for ethical hacking/penetration testing and Digital Forensic jobs on employment sites such as **indeed.com**, **glassdoor.com**, **linkedin.com**, and **monster.com**.
 2. Use at least three different job boards to gather your results. Focus on **entry-level** jobs, but feel free to explore more senior positions.
 3. Find five jobs that seem interesting and relevant to you.
 4. Complete **Table 1: Jobs Table** with the details of the jobs you find.
