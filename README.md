@@ -35,7 +35,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 4 | [Web History and SQL](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_03_WebHistory_SQL.pptx)                                       | [Python version](NIST_Data_Leakage_Case/NIST_Data_Leakage_03_WebHistory_SQL_Python.pptx) |
 | Lab 5  | [Email Investigation](NIST_Data_Leakage_Case/NIST_Data_Leakage_04_Email_USB.pptx)                                            | [Python version](NIST_Data_Leakage_Case/NIST_Data_Leakage_04_Email_USB_Python.pptx)      |
 | Lab 6  | [File Change History and USN Journal](NIST_Data_Leakage_Case/NIST_Data_Leakage_05_USNJournaling.pptx)                        |                                                                                          |
-                     |                                                                                          |
+                     |                                                                                       
 
 ---
 
