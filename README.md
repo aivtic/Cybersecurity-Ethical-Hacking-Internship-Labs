@@ -24,11 +24,6 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 - Introduction to Ethical Hacking and Penetration Testing (INT401)
 
-  - [Ethical Hacker - Module 01](/INT401_Ethical_Hacking_Penetration_Testing/0_Number_Systems.pptx)
-  - [Lab 1. Deploy Pre-Built Kali Linux Virtual Machine(VM)](/Basic_Computer_Skills_for_Forensics/1_PC_Introduction.pptx)
-  - [Windows Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/2_Win_command_line_tutorial.pptx)
-  - [Linux Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/3_Linux_command_line_tutorial.pptx)
-  - [Advanced Linux Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/4_Advanced_linux_command_line.pptx)
 
   **Topics Covered**
 
