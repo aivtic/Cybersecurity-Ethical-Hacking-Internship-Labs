@@ -117,16 +117,7 @@ to change the working directory.
 Type ls -l at the command prompt to list the files and folders that are in the current working directory. The ls command stands for list. The -l option displays the file size, permissions, ownership, date of creation, and more for the files and folders.
 ┌──(kali㉿Kali)-[~]
 └─$ ls -l
-total 36
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Desktop
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Documents
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Downloads
--rw-r--r-- 1 kali kali  142 Apr 10 14:51 gvm_admin_passwd.txt
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Music
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Pictures
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Public
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Templates
-drwxr-xr-x 2 kali kali 4096 Apr 10 14:51 Videos
+
 
 ## Understanding File Permissions
 The output shows file and folder permissions in the leftmost column. The first character indicates if the item is a directory (d) or a file (-). The next nine characters represent permissions for the owner, group, and others in three sets of three characters.
@@ -138,6 +129,7 @@ Creating and Removing Directories
 ## To create a new directory called Test, use the mkdir command:
 ┌──(kali㉿Kali)-[~/Documents]
 └─$ mkdir Test
+
 To verify that the directory was created, use the ls command:
 ┌──(kali㉿Kali)-[~/Documents]
 └─$ ls
