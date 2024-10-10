@@ -1,6 +1,6 @@
 # A-I Vocational Training Institute of Cybersecurity 
 # Cybersecurity Ethical-Hacking Internship Labs (Phase 2)
-<img src="https://portal.aivtic.org.ng/portal/images/logo1.png" width="100"> <img src="http://nasitdea.na.gov.ng/wp-content/uploads/2023/12/NASITDA-LOGO-1.png" width="250">
+
 This repository contains all labs for the Phase 2 Cybersecurity and Ethical Hacking Internship. Labs cover ethical hacking, penetration testing, vulnerability scanning, social engineering, post-exploitation techniques, forensics, and more. Each course has its own directory with detailed lab instructions and tools.
 
 
@@ -17,5 +17,6 @@ This repository contains all labs for the Phase 2 Cybersecurity and Ethical Hack
 
 _For questions, feedback, or to inform us of your use of these materials, please contact us at resources@aivtic.org.ng. Your input is invaluable to the growth of this repository!_
 
+---
 
 
