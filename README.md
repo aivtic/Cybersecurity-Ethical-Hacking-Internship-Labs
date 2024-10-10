@@ -18,5 +18,31 @@ This repository contains all labs for the Phase 2 Cybersecurity and Ethical Hack
 _For questions, feedback, or to inform us of your use of these materials, please contact us at resources@aivtic.org.ng. Your input is invaluable to the growth of this repository!_
 
 ---
+---
+
+## Table of Contents 
+
+- Introduction to Ethical Hacking and Penetration Testing (INT401)
+
+  - [Ethical Hacker - Module 01](/INT401_Ethical_Hacking_Penetration_Testing/0_Number_Systems.pptx)
+  - [Lab 1. Deploy Pre-Built Kali Linux Virtual Machine(VM)](/Basic_Computer_Skills_for_Forensics/1_PC_Introduction.pptx)
+  - [Windows Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/2_Win_command_line_tutorial.pptx)
+  - [Linux Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/3_Linux_command_line_tutorial.pptx)
+  - [Advanced Linux Command Line Tutorial](/Basic_Computer_Skills_for_Forensics/4_Advanced_linux_command_line.pptx)
+
+  **Topics Covered**
+
+| Labs   | Topics Covered (Command Line)                                                                                                | Python Version                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 1  | [Environment Setting Up](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |                                                                                          |
+| Lab 2  | [Windows Registry](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_01_Registry.pptx)                                                |                                                                                          |
+| Lab 3  | [Windows Event and XML](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_02._WinEvt_XML.pptx)                                        | [Python version](NIST_Data_Leakage_Case/NIST_Data_Leakage_02._WinEvt_XML_Python.pptx)    |
+| Lab 4 | [Web History and SQL](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_03_WebHistory_SQL.pptx)                                       | [Python version](NIST_Data_Leakage_Case/NIST_Data_Leakage_03_WebHistory_SQL_Python.pptx) |
+| Lab 5  | [Email Investigation](NIST_Data_Leakage_Case/NIST_Data_Leakage_04_Email_USB.pptx)                                            | [Python version](NIST_Data_Leakage_Case/NIST_Data_Leakage_04_Email_USB_Python.pptx)      |
+| Lab 6  | [File Change History and USN Journal](NIST_Data_Leakage_Case/NIST_Data_Leakage_05_USNJournaling.pptx)                        |                                                                                          |
+                     |                                                                                          |
+
+---
+
 
 
