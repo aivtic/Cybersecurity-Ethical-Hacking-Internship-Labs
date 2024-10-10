@@ -53,7 +53,8 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 2.2.8  | [Practice - Strategy: Unknown vs. Known Environment Testing](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
 | Lab 2.2.9  | [Lab - Pre-Engagement Scope and Planning](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
 | Lab 2.2.10  | [Lab - Create a Pentesting Agreement](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
-| Lab 2.3.2  | [Practice - Demonstrate an Ethical Hacking Mindset](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended   |
+| Lab 2.3.2  | [Practice - Demonstrate an Ethical Hacking Mindset](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended 
+| Lab 1.3.7  | [Lab - Investigate Kali Linux](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        |                          
 
  Lab 2.3.3  | [Lab - Personal Code of Conduct](INT401_Ethical_Hacking_Penetration_Testing/lab6.md)                        | Recommended                                                                                                                                                
 
