@@ -72,7 +72,7 @@ For the pre-built customized Linux for this course, the user `kali` is configure
 2. Right-click the Desktop > select **Applications** > click **Terminal Emulator**. This will open a terminal emulator window.
 3. Root privilege is required to view and edit the file `/etc/sudoers`. To illustrate the use of root privileges, enter the command `visudo` at the command prompt in the terminal.
 
-┌──(kali㉿Kali)-[~] └─$ visudo visudo: /etc/sudoers: Permission denied
+## ┌──(kali㉿Kali)-[~] └─$ visudo visudo: /etc/sudoers: Permission denied
 
 4. Note that you do not have permission to view and edit the file.
 
