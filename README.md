@@ -29,11 +29,11 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Lab 1.1.3  | [Lab - Researching PenTesting Careers](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |                                                                                         |
+| Lab 1.1.3  | [Lab - Researching PenTesting Careers](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_00_Env_Setting.pptx)                                       |Recommended                                                                                         |
 | Lab 1.2.4  | [Practice - Types of Penetration Tests](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_01_Registry.pptx)                                                | Recommended                                                                                           |
 | Lab 1.2.6  | [Lab - Compare Pentesting Methodologies](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_02._WinEvt_XML.pptx)                                        | Recommended    |
-| Lab 1.3.4 | [Practice - Requirements and Guidelines for Penetration Testing Labs](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_03_WebHistory_SQL.pptx)                                       | [Python version](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_03_WebHistory_SQL_Python.pptx) |
-| Lab 1.3.6  | [Lab - Deploy a Pre-Built Kali Linux Virtual Machine (VM)](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_04_Email_USB.pptx)                                            | [Python version](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_04_Email_USB_Python.pptx)      |
+| Lab 1.3.4 | [Practice - Requirements and Guidelines for Penetration Testing Labs](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_03_WebHistory_SQL.pptx)                                       | Recommended  |
+| Lab 1.3.6  | [Lab - Deploy a Pre-Built Kali Linux Virtual Machine (VM)](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_04_Email_USB.pptx)                                            | Recommended       |
 | Lab 1.3.7  | [Lab - Investigate Kali Linux](INT401_Ethical_Hacking_Penetration_Testing/NIST_Data_Leakage_05_USNJournaling.pptx)                        |                                                                                                           
 
 ---
