@@ -67,24 +67,24 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Lab 3.1.3  | [Practice - Active Reconnaissance vs. Passive Reconnaissance](INT402_Planning_Scoping_Pentest/lab7.md)                                       |Recommended                                                                                         |
-| Lab 3.1.4  | [Lab - Using OSINT Tools](INT402_Planning_Scoping_Pentest/lab8.md)                                                | Recommended                                                                                           |
-| Lab 3.1.6  | [Practice - DNS Lookups](INT402_Planning_Scoping_Pentest/lab9.md)                                        | Recommended    |
-| Lab 3.1.8 | [Practice - Identification of Technical and Administrative Contracts](INT402_Planning_Scoping_Pentest/lab10.md)                                       | Recommended  |
-| Lab 3.1.9  | [Lab - DNS Lookups](INT402_Planning_Scoping_Pentest/lab11.md)                                            | Recommended       |
-| Lab 3.1.12  | [Lab - Employee Intelligence Gathering](INT402_Planning_Scoping_Pentest/lab12.md)                        | Recommended   |
-| Lab 3.1.14  | [Lab - Finding Information From SSL certificates](INT402_Planning_Scoping_Pentest/lab13.md)                        | Recommended   |
-| Lab 3.1.16  | [Practice - File Metadata](INT402_Planning_Scoping_Pentest/lab14.md)                        | Recommended   |
-| Lab 3.1.17  | [Practice - Web Archiving, Caching, and Public Code Repositories](INT402_Planning_Scoping_Pentest/lab15.md)                        | Recommended 
-| Lab 3.1.18  | [Lab - Finding Out About the Organization](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.1.19  | [Lab - Advanced Searches](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.1.21  | [Lab - Shodan Searches](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.3  | [Practice - Nmap Scan Types](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.5  | [Practice - Exploring Enumeration via Packet Crafting with Scapy](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.6  | [Lab - Enumeration with Nmap](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.8  | [Practice - Packet Inspection and Eavesdropping](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.9  | [Lab - Packet Crafting with Scapy](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended 
-| Lab 3.2.10  | [Lab - Network Sniffing with Wireshark](INT402_Planning_Scoping_Pentest/lab16.md)                        |Recommended                         
+| Lab 3.1.3  | [Practice - Active Reconnaissance vs. Passive Reconnaissance](INT403_Information_Gathering_Vulnerability_Scanning/lab7.md)                                       |Recommended                                                                                         |
+| Lab 3.1.4  | [Lab - Using OSINT Tools](INT403_Information_Gathering_Vulnerability_Scanning/lab17.md)                                                | Recommended                                                                                           |
+| Lab 3.1.6  | [Practice - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab18.md)                                        | Recommended    |
+| Lab 3.1.8 | [Practice - Identification of Technical and Administrative Contracts](INT403_Information_Gathering_Vulnerability_Scanning/lab10.md)                                       | Recommended  |
+| Lab 3.1.9  | [Lab - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab19.md)                                            | Recommended       |
+| Lab 3.1.12  | [Lab - Employee Intelligence Gathering](INT403_Information_Gathering_Vulnerability_Scanning/lab20.md)                        | Recommended   |
+| Lab 3.1.14  | [Lab - Finding Information From SSL certificates](INT403_Information_Gathering_Vulnerability_Scanning/lab13.md)                        | Recommended   |
+| Lab 3.1.16  | [Practice - File Metadata](INT403_Information_Gathering_Vulnerability_Scanning/lab21.md)                        | Recommended   |
+| Lab 3.1.17  | [Practice - Web Archiving, Caching, and Public Code Repositories](INT403_Information_Gathering_Vulnerability_Scanning/lab22.md)                        | Recommended 
+| Lab 3.1.18  | [Lab - Finding Out About the Organization](INT403_Information_Gathering_Vulnerability_Scanning/lab23.md)                        |Recommended 
+| Lab 3.1.19  | [Lab - Advanced Searches](INT403_Information_Gathering_Vulnerability_Scanning/lab24.md)                        |Recommended 
+| Lab 3.1.21  | [Lab - Shodan Searches](INT403_Information_Gathering_Vulnerability_Scanning/lab25.md)                        |Recommended 
+| Lab 3.2.3  | [Practice - Nmap Scan Types](INT403_Information_Gathering_Vulnerability_Scanning/lab26.md)                        |Recommended 
+| Lab 3.2.5  | [Practice - Exploring Enumeration via Packet Crafting with Scapy](INT403_Information_Gathering_Vulnerability_Scanning/lab27.md)                        |Recommended 
+| Lab 3.2.6  | [Lab - Enumeration with Nmap](INT403_Information_Gathering_Vulnerability_Scanning/lab28.md)                        |Recommended 
+| Lab 3.2.8  | [Practice - Packet Inspection and Eavesdropping](INT403_Information_Gathering_Vulnerability_Scanning/lab29.md)                        |Recommended 
+| Lab 3.2.9  | [Lab - Packet Crafting with Scapy](INT403_Information_Gathering_Vulnerability_Scanning/lab30.md)                        |Recommended 
+| Lab 3.2.10  | [Lab - Network Sniffing with Wireshark](INT403_Information_Gathering_Vulnerability_Scanning/lab31.md)                        |Recommended                         
 
 
 
