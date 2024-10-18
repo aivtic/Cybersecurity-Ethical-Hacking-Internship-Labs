@@ -86,11 +86,30 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 3.2.9  | [Lab - Packet Crafting with Scapy](INT403_Information_Gathering_Vulnerability_Scanning/lab33.md)                        |Recommended 
 | Lab 3.2.10  | [Lab - Network Sniffing with Wireshark](INT403_Information_Gathering_Vulnerability_Scanning/lab34.md)                        |Recommended                         
 
+---
+
+- Social Engineering Attacks   (INT404)
 
 
-                                                                                                                                                 
+  **Topics Covered**
+
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 4.1.2  | [Practice - Active Reconnaissance vs. Passive Reconnaissance](INT403_Information_Gathering_Vulnerability_Scanning/lab17.md)                                       |Recommended                                                                                         |
+| Lab 4.2.7  | [Lab - Using OSINT Tools](INT403_Information_Gathering_Vulnerability_Scanning/lab18.md)                                                | Recommended                                                                                           |
+| Lab 4.2.8  | [Practice - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab19.md)                                        | Recommended    |
+| Lab 4.3.6 | [Practice - Identification of Technical and Administrative Contracts](INT403_Information_Gathering_Vulnerability_Scanning/lab20.md)                                       | Recommended  |
+| Lab 4.4.4  | [Lab - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab21.md)                                            | Recommended       |
+| Lab 4.4.6  | [Lab - Employee Intelligence Gathering](INT403_Information_Gathering_Vulnerability_Scanning/lab22.md)                        | Recommended   |
+| Lab 4.4.7  | [Lab - Finding Information From SSL certificates](INT403_Information_Gathering_Vulnerability_Scanning/lab23.md)                        | Recommended   |
+| Lab 4.4.8  | [Practice - File Metadata](INT403_Information_Gathering_Vulnerability_Scanning/lab24.md)                        | Recommended   |
+| Lab 4.5.2  | [Practice - Web Archiving, Caching, and Public Code Repositories](INT403_Information_Gathering_Vulnerability_Scanning/lab25.md)                        | Recommended 
+| Lab 4.6.3  | [Lab - Finding Out About the Organization](INT403_Information_Gathering_Vulnerability_Scanning/lab26.md)                        |Recommended 
+
 
 ---
+
+
 
 
 
