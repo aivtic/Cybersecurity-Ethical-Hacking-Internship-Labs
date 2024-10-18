@@ -20,9 +20,9 @@ _For questions, feedback, or to inform us of your use of these materials, please
 ---
 ---
 
-## Table of Contents 
+# Table of Contents 
 
-- Introduction to Ethical Hacking and Penetration Testing (INT401)
+## Introduction to Ethical Hacking and Penetration Testing (INT401)
 
 
   **Topics Covered**
@@ -38,7 +38,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
-- Planning and Scoping a Penetration Testing Assessment (INT402)
+ ## Planning and Scoping a Penetration Testing Assessment (INT402)
 
 
   **Topics Covered**
@@ -60,7 +60,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
-- Information Gathering and Vulnerability Scanning (INT403)
+## Information Gathering and Vulnerability Scanning (INT403)
 
 
   **Topics Covered**
@@ -88,7 +88,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
-- Social Engineering Attacks   (INT404)
+## Social Engineering Attacks   (INT404)
 
 
   **Topics Covered**
