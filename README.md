@@ -25,7 +25,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 ## Introduction to Ethical Hacking and Penetration Testing (INT401)
 
 
-  **Topics Covered**
+  
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
  ## Planning and Scoping a Penetration Testing Assessment (INT402)
 
 
-  **Topics Covered**
+  
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 ## Information Gathering and Vulnerability Scanning (INT403)
 
 
-  **Topics Covered**
+  
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 ## Social Engineering Attacks   (INT404)
 
 
-  **Topics Covered**
+  
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
