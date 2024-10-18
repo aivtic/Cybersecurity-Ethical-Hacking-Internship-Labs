@@ -97,7 +97,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Lab 4.1.2  | [Practice - Pretexting / Impersonation](INT404_Social_Engineering_Attacks/s1.md)                                       |Mandatory                                                                                         |
 | Lab 4.2.7  | [Practice - Pivot Attack](INT404_Social_Engineering_Attacks/s2.md)                                                | Mandatory                                                                                           |
-| Lab 4.2.8  | [Practice - Social Engineering Attacks](INT404_Social_Engineering_Attacks/s3.md)                                        | Mandatory    |
+| Lab 4.2.8  | [Practice - Social Engineering Attacks](INT404_Social_Engineering_Attacks/S3.md)                                        | Mandatory    |
 | Lab 4.3.6 | [Practice - Physical Attacks](INT404_Social_Engineering_Attacks/s4.md)                                       | Mandatory  |
 | Lab 4.4.4  | [Practice - Browser Exploitation Framework](INT404_Social_Engineering_Attacks/s5.md)                                            | Mandatory       |
 | Lab 4.4.6  | [Practice - Call Spoofing Tools](INT404_Social_Engineering_Attacks/s6.md)                        | Mandatory   |
