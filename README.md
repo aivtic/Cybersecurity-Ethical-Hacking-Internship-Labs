@@ -95,16 +95,16 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Lab 4.1.2  | [Practice - Active Reconnaissance vs. Passive Reconnaissance](INT403_Information_Gathering_Vulnerability_Scanning/lab17.md)                                       |Recommended                                                                                         |
-| Lab 4.2.7  | [Lab - Using OSINT Tools](INT403_Information_Gathering_Vulnerability_Scanning/lab18.md)                                                | Recommended                                                                                           |
-| Lab 4.2.8  | [Practice - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab19.md)                                        | Recommended    |
-| Lab 4.3.6 | [Practice - Identification of Technical and Administrative Contracts](INT403_Information_Gathering_Vulnerability_Scanning/lab20.md)                                       | Recommended  |
-| Lab 4.4.4  | [Lab - DNS Lookups](INT403_Information_Gathering_Vulnerability_Scanning/lab21.md)                                            | Recommended       |
-| Lab 4.4.6  | [Lab - Employee Intelligence Gathering](INT403_Information_Gathering_Vulnerability_Scanning/lab22.md)                        | Recommended   |
-| Lab 4.4.7  | [Lab - Finding Information From SSL certificates](INT403_Information_Gathering_Vulnerability_Scanning/lab23.md)                        | Recommended   |
-| Lab 4.4.8  | [Practice - File Metadata](INT403_Information_Gathering_Vulnerability_Scanning/lab24.md)                        | Recommended   |
-| Lab 4.5.2  | [Practice - Web Archiving, Caching, and Public Code Repositories](INT403_Information_Gathering_Vulnerability_Scanning/lab25.md)                        | Recommended 
-| Lab 4.6.3  | [Lab - Finding Out About the Organization](INT403_Information_Gathering_Vulnerability_Scanning/lab26.md)                        |Recommended 
+| Lab 4.1.2  | [Practice - Pretexting / Impersonation](INT404_Social_Engineering_Attacks/s1.md)                                       |Recommended                                                                                         |
+| Lab 4.2.7  | [Practice - Pivot Attack](INT404_Social_Engineering_Attacks/s2.md)                                                | Recommended                                                                                           |
+| Lab 4.2.8  | [Practice - Social Engineering Attacks](INT404_Social_Engineering_Attacks/s3.md)                                        | Recommended    |
+| Lab 4.3.6 | [Practice - Physical Attacks](INT404_Social_Engineering_Attacks/s4.md)                                       | Recommended  |
+| Lab 4.4.4  | [Practice - Browser Exploitation Framework](INT404_Social_Engineering_Attacks/s5.md)                                            | Recommended       |
+| Lab 4.4.6  | [Practice - Call Spoofing Tools](INT404_Social_Engineering_Attacks/s6.md)                        | Recommended   |
+| Lab 4.4.7  | [Lab - Explore the Social Engineering Toolkit (SET)](INT404_Social_Engineering_Attacks/s7.md)                        | Recommended   |
+| Lab 4.4.8  | [Lab - Using the Browser Exploitation Framework (BeEF)](INT404_Social_Engineering_Attacks/s8.md)                        | Recommended   |
+| Lab 4.5.2  | [Practice - Methods of Influence](INT404_Social_Engineering_Attacks/s9.md)                        | Recommended 
+| Lab 4.6.3  | [Quiz - Social Engineering Attacks](INT404_Social_Engineering_Attacks/s10.md)                        |Recommended 
 
 
 ---
