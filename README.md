@@ -132,7 +132,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 6.1 | [Practice Lab 1: Practice - The HTTP Protocol](INT406_Exploiting_Application_Based_Vulnerabilities/lab1.md)                                       |Mandatory                                                                                         |
 | Lab 6.2  | [Lab 2: Web Sessions Security Enhancement](INT406_Exploiting_Application_Based_Vulnerabilities/lab2.md)                                                | Mandatory                                                                                           |
 | Lab 6.3  | [Lab 3: Web Vulnerability Scanning using OWASP Broken Web Applications VM](INT406_Exploiting_Application_Based_Vulnerabilities/lab3.md)                                        | Mandatory    |
-| Lab 6.4 | [Practice - Physical Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/s4.md)                                       | Mandatory  |
+| Lab 6.4 | [Lab 4 - Using the GVM Vulnerability Scanner](INT406_Exploiting_Application_Based_Vulnerabilities/lab4.md)                                       | Mandatory  |
 | Lab 6.5  | [Practice - Browser Exploitation Framework](INT406_Exploiting_Application_Based_Vulnerabilities/s5.md)                                            | Mandatory       |
 | Lab 6.6  | [Practice - Call Spoofing Tools](INT406_Exploiting_Application_Based_Vulnerabilities/s6.md)                        | Mandatory   |
 | Lab 6.7  | [Lab - Explore the Social Engineering Toolkit (SET)](INT406_Exploiting_Application_Based_Vulnerabilities/s7.md)                        | Mandatory   |
