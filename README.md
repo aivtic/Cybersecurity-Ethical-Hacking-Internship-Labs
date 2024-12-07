@@ -109,7 +109,18 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
+## INT405 Wired-Wireless Network Exploitation   (INT405)
 
+
+  
+
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 5.1  | [Practice - Windows Name Resolution and SMB Attacks](INT405_Wired_Wireless_Network_Exploitation/l1.md)                                       |Mandatory                                                                                         |
+| Lab 5.2 | [Lab - Scanning for SMB Vulnerabilities with enum4linux](INT405_Wired_Wireless_Network_Exploitation/l2.md)                                                | Mandatory                                                                                           |
+| Lab 5.3  | [Lab - On-Path Attacks with Ettercap](INT405_Wired_Wireless_Network_Exploitation/l3.md)                                        | Mandatory    |
+
+---
 
 
 
