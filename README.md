@@ -109,7 +109,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
-## INT405 Wired-Wireless Network Exploitation   (INT405)
+## Wired-Wireless Network Exploitation   (INT405)
 
 
   
@@ -119,6 +119,27 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 5.1  | [Practice - Windows Name Resolution and SMB Attacks](INT405_Wired_Wireless_Network_Exploitation/l1.md)                                       |Mandatory                                                                                         |
 | Lab 5.2 | [Lab - Scanning for SMB Vulnerabilities with enum4linux](INT405_Wired_Wireless_Network_Exploitation/l2.md)                                                | Mandatory                                                                                           |
 | Lab 5.3  | [Lab - On-Path Attacks with Ettercap](INT405_Wired_Wireless_Network_Exploitation/l3.md)                                        | Mandatory    |
+
+---
+
+## Exploiting Application Based Vulnerabilities   (INT406)
+
+
+  
+
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 6.1 | [Practice Lab 1: Practice - The HTTP Protocol](INT406_Exploiting_Application_Based_Vulnerabilities/lab1.md)                                       |Mandatory                                                                                         |
+| Lab 6.2  | [Lab 2: Web Sessions Security Enhancement](INT406_Exploiting_Application_Based_Vulnerabilities/lab2.md)                                                | Mandatory                                                                                           |
+| Lab 6.3  | [Lab 3: Web Vulnerability Scanning using OWASP Broken Web Applications VM](INT406_Exploiting_Application_Based_Vulnerabilities/lab3.md)                                        | Mandatory    |
+| Lab 6.4 | [Practice - Physical Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/s4.md)                                       | Mandatory  |
+| Lab 6.5  | [Practice - Browser Exploitation Framework](INT406_Exploiting_Application_Based_Vulnerabilities/s5.md)                                            | Mandatory       |
+| Lab 6.6  | [Practice - Call Spoofing Tools](INT406_Exploiting_Application_Based_Vulnerabilities/s6.md)                        | Mandatory   |
+| Lab 6.7  | [Lab - Explore the Social Engineering Toolkit (SET)](INT406_Exploiting_Application_Based_Vulnerabilities/s7.md)                        | Mandatory   |
+| Lab 6.8  | [Lab - Using the Browser Exploitation Framework (BeEF)](INT406_Exploiting_Application_Based_Vulnerabilities/s8.md)                        | Mandatory   |
+| Lab 6.9  | [Practice - Methods of Influence](INT406_Exploiting_Application_Based_Vulnerabilities/s9.md)                        | Mandatory 
+| Lab 6.9.1  | [Quiz - Social Engineering Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/s10.md)                        |Mandatory 
+
 
 ---
 
