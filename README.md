@@ -133,12 +133,12 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 6.2  | [Lab 2: Web Sessions Security Enhancement](INT406_Exploiting_Application_Based_Vulnerabilities/lab2.md)                                                | Mandatory                                                                                           |
 | Lab 6.3  | [Lab 3: Web Vulnerability Scanning using OWASP Broken Web Applications VM](INT406_Exploiting_Application_Based_Vulnerabilities/lab3.md)                                        | Mandatory    |
 | Lab 6.4 | [Lab 4 - Using the GVM Vulnerability Scanner](INT406_Exploiting_Application_Based_Vulnerabilities/lab4.md)                                       | Mandatory  |
-| Lab 6.5  | [Practice - Browser Exploitation Framework](INT406_Exploiting_Application_Based_Vulnerabilities/s5.md)                                            | Mandatory       |
-| Lab 6.6  | [Practice - Call Spoofing Tools](INT406_Exploiting_Application_Based_Vulnerabilities/s6.md)                        | Mandatory   |
-| Lab 6.7  | [Lab - Explore the Social Engineering Toolkit (SET)](INT406_Exploiting_Application_Based_Vulnerabilities/s7.md)                        | Mandatory   |
-| Lab 6.8  | [Lab - Using the Browser Exploitation Framework (BeEF)](INT406_Exploiting_Application_Based_Vulnerabilities/s8.md)                        | Mandatory   |
-| Lab 6.9  | [Practice - Methods of Influence](INT406_Exploiting_Application_Based_Vulnerabilities/s9.md)                        | Mandatory 
-| Lab 6.9.1  | [Quiz - Social Engineering Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/s10.md)                        |Mandatory 
+| Lab 6.5  | [Lab 5 Practice - Understanding Business Logic Flaws](INT406_Exploiting_Application_Based_Vulnerabilities/lab5.md)                                            | Mandatory       |
+| Lab 6.6  | [Practice 6 - SQL Injection Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/lab6.md)                        | Mandatory   |
+| Lab 6.7  | [Lab 7- Injection Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/lab7.md)                        | Mandatory   |
+| Lab 6.8  | [Practice Lab 8 - Parameter Pollution](INT406_Exploiting_Application_Based_Vulnerabilities/lab8.md)                        | Mandatory   |
+| Lab 6.9  | [Lab 9 - Insecure Direct Object Reference (IDOR) Vulnerabilities](INT406_Exploiting_Application_Based_Vulnerabilities/lab9.md)                        | Mandatory 
+| Lab 6.9.1  | [Lab 10 - Reflected Cross-Site Scripting (XSS) Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/lab10.md)                        |Mandatory 
 
 
 ---
