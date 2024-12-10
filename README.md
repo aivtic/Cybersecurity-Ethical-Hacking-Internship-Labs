@@ -145,6 +145,20 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
+## INT407 Post Exploitation Techniques   (INT407)
+
+
+  
+
+| Lab Number   | Activity Name                                                                                                | Status                                                                           |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Lab 7.1 | [Practice Lab 1: Practice - The HTTP Protocol](INT406_Exploiting_Application_Based_Vulnerabilities/lab1.md)                                       |Mandatory                                                                                         |
+| Lab 7.2  | [Lab 2: Web Sessions Security Enhancement](INT406_Exploiting_Application_Based_Vulnerabilities/lab2.md)                                                | Mandatory                                                                                           |
+| Lab 7.3  | [Lab 3: Web Vulnerability Scanning using OWASP Broken Web Applications VM](INT406_Exploiting_Application_Based_Vulnerabilities/lab3.md)                                        | Mandatory    |
+| Lab 7.4 | [Lab 4 - Using the GVM Vulnerability Scanner](INT406_Exploiting_Application_Based_Vulnerabilities/lab4.md)                                       | Mandatory  |
+| Lab 7.5  | [Lab 5 Practice - Understanding Business Logic Flaws](INT406_Exploiting_Application_Based_Vulnerabilities/lab5.md)                                            | Mandatory       |
+
+---
 
 
 
