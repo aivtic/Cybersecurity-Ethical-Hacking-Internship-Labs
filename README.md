@@ -139,6 +139,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab 6.8  | [Practice Lab 8 - Parameter Pollution](INT406_Exploiting_Application_Based_Vulnerabilities/lab8.md)                        | Mandatory   |
 | Lab 6.9  | [Lab 9 - Insecure Direct Object Reference (IDOR) Vulnerabilities](INT406_Exploiting_Application_Based_Vulnerabilities/lab9.md)                        | Mandatory 
 | Lab 6.9.1  | [Lab 10 - Reflected Cross-Site Scripting (XSS) Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/lab10.md)                        |Mandatory 
+| Lab 6.9.1  | [Lab 10 - Reflected Cross-Site Scripting (XSS) Attacks](INT406_Exploiting_Application_Based_Vulnerabilities/lab10.md)                        |Mandatory 
 
 | Lab 6.7.1  | [Lab - Use the OWASP Web Security Testing Guide](INT406_Exploiting_Application_Based_Vulnerabilities/lab18.md)                        |Mandatory |
 
