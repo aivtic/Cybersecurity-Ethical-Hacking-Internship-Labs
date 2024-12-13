@@ -145,7 +145,7 @@ _For questions, feedback, or to inform us of your use of these materials, please
 
 ---
 
-## INT407 Post Exploitation Techniques   (INT407)
+## Post Exploitation Techniques   (INT407)
 
 
   
