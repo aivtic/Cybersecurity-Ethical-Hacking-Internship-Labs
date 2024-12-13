@@ -153,10 +153,10 @@ _For questions, feedback, or to inform us of your use of these materials, please
 | Lab Number   | Activity Name                                                                                                | Status                                                                           |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Lab 7.1 | [Lab 1: Reverse and Bind Shells in Post-Exploitation Techniques](INT407_Post_Exploitation_Techniques/lab1.md)                                       |Mandatory                                                                                         |
-| Lab 7.2  | [Lab 2: Web Sessions Security Enhancement](INT407_Post_Exploitation_Techniques/lab2.md)                                                | Mandatory                                                                                           |
-| Lab 7.3  | [Lab 3: Web Vulnerability Scanning using OWASP Broken Web Applications VM](INT407_Post_Exploitation_Techniques/lab3.md)                                        | Mandatory    |
-| Lab 7.4 | [Lab 4 - Using the GVM Vulnerability Scanner](INT407_Post_Exploitation_Techniques/lab4.md)                                       | Mandatory  |
-| Lab 7.5  | [Lab 5 Practice - Understanding Business Logic Flaws](INT407_Post_Exploitation_Techniques/lab5.md)                                            | Mandatory       |
+| Lab 7.2  | [Post-Exploitation using Legitimate Utilities and Living-off-the-Land](INT407_Post_Exploitation_Techniques/lab2.md)                                                | Mandatory                                                                                           |
+| Lab 7.3  | [Lab 3: Horizontal Privilege Escalation via URL Manipulation (Real Test)](INT407_Post_Exploitation_Techniques/lab3.md)                                        | Mandatory    |
+| Lab 7.4 | [Lab 4: Covering Your Tracks and Exfiltrating Data Using Steganography](INT407_Post_Exploitation_Techniques/lab4.md)                                       | Mandatory  |
+| Lab 7.5  | [Practice: Reflection Questions](INT407_Post_Exploitation_Techniques/lab5.md)                                            | Mandatory       |
 
 ---
 
