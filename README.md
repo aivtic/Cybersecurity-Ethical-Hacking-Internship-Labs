@@ -1,4 +1,4 @@
-# A-I Vocational Training Institute of Cybersecurity 
+# International Cybersecurity and Digital Forensics Academy
 # Cybersecurity Ethical-Hacking Internship Labs (Phase 2)
 
 This repository contains all labs for the Phase 2 Cybersecurity and Ethical Hacking Internship. Labs cover ethical hacking, penetration testing, vulnerability scanning, social engineering, post-exploitation techniques, forensics, and more. Each course has its own directory with detailed lab instructions and tools.
